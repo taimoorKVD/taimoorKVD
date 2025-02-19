@@ -73,7 +73,7 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 
 ---
 
-## 📊 **Top Languages**  
+## 🌟 **Top Languages**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorKVD&layout=compact&theme=radical" alt="Top Languages">
 </div>
@@ -93,6 +93,12 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 - **[JapanSKI](https://github.com/kingdomvision/japanski_travel)**  
   A seamless, responsive platform for effortlessly booking and receiving quotes for your next unforgettable tour.
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC34A?logo=alpine.js&logoColor=white)
+
+---
+
+## 🌟 **My Believers**
+![GitHub followers](https://img.shields.io/github/followers/taimoorKVD?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/taimoorKVD?style=social)
 
 ---
 
