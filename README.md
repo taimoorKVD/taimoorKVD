@@ -15,6 +15,13 @@ Hey there! I'm a **Senior Backend Developer** passionate about crafting **scalab
 
 Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js, and Livewire**, ensuring seamless user experiences. I love working with **RESTful APIs, real-time data, and cloud deployments**, making sure applications run smoothly at scale.
 
+💡 **Passionate About:**  
+✔ Building **highly scalable web applications**  
+✔ Architecting **RESTful APIs & microservices**  
+✔ Crafting **secure authentication & authorization systems**  
+✔ Implementing **real-time experiences with WebSockets & Pusher**  
+✔ Deploying & optimizing apps on **AWS, DigitalOcean, and Docker**
+
 ---
 
 ## 💻 **Tech Stack & Tools**
@@ -57,13 +64,35 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 
 ## 📊 **GitHub Stats**
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taimoorKVD&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taimoorKVD&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🏆 **Top Repositories**
+<p align="center">
+  <a href="https://github.com/your-username/your-top-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taimoorKVD&repo=japanski_travel&theme=radical" />
+  </a>
+  <a href="https://github.com/your-username/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taimoorKVD&repo=firefighter&theme=radical" />
+  </a>
+  <a href="https://github.com/your-username/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taimoorKVD&repo=firefighter&theme=radical" />
+  </a>
+  <a href="https://github.com/your-username/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taimoorKVD&repo=ott-web-app&theme=radical" />
+  </a>
 </p>
 
 ---
 
 ## 🎯 **Let’s Connect**
 💬 Always open for discussions on **Laravel, React, APIs, real-time systems, and cloud architecture**!  
+📌 **Portfolio**: [http://taimoorhussain.com]
 🔗 **LinkedIn**: [https://www.linkedin.com/in/hafiz-mohammad-taimoor-hussain]  
 📧 **Email**: [taimoorhussain79@outlook.com]  
 
