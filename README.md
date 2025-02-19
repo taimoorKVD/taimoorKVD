@@ -69,6 +69,14 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 
 ---
 
+## 📊 **Top Languages**
+A glance at the languages I use the most in my repositories:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorKVD&layout=compact&theme=radical)
+
+🚀 Note: This is an auto-generated statistic based on my public repositories. The stats may not fully represent my expertise in certain technologies.
+
+---
+
 ## 🏆 **Top Repositories**
 
 - **[Multi-Vendor](https://github.com/taimoorKVD/multi-vendor)**  
