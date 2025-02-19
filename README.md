@@ -9,6 +9,10 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+</div>
+
 
 ## 🚀 **About Me**
 Hey there! I'm a **Senior Backend Developer** passionate about crafting **scalable, high-performance applications**. With deep expertise in **Laravel, CodeIgniter, and modern web technologies**, I thrive on solving complex problems and building efficient, secure, and well-architected backend systems.
