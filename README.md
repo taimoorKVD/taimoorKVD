@@ -66,13 +66,6 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taimoorKVD&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🌟 **Top Languages**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorKVD&layout=compact&theme=radical" alt="Top Languages">
@@ -96,9 +89,24 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 
 ---
 
-## 🌟 **My Believers**
-![GitHub followers](https://img.shields.io/github/followers/taimoorKVD?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/taimoorKVD?style=social)
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taimoorKVD&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📈 My GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taimoorKVD&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/taimoorKVD/taimoorKVD/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
