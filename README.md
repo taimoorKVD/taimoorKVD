@@ -6,44 +6,61 @@
 
 ---
 
-### 👨‍💻 **About Me**
-- 🔹 Senior Backend Developer with expertise in **Laravel**, **CodeIgniter**, and modern web architectures.  
-- 🔹 Passionate about building **scalable applications**, crafting **RESTful APIs**, and optimizing **database performance**.  
-- 🔹 Experienced in **React.js, Inertia.js, and Livewire** to create dynamic user experiences.  
-- 🔹 Love working on **real-time systems**, integrating third-party services, and enhancing **developer productivity**.  
-- 🔹 Constantly exploring **new technologies** to push the boundaries of web development.  
+## 🚀 **About Me**
+Hey there! I'm a **Senior Backend Developer** passionate about crafting **scalable, high-performance applications**. With deep expertise in **Laravel, CodeIgniter, and modern web technologies**, I thrive on solving complex problems and building efficient, secure, and well-architected backend systems.
+
+Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js, and Livewire**, ensuring seamless user experiences. I love working with **RESTful APIs, real-time data, and cloud deployments**, making sure applications run smoothly at scale.
 
 ---
 
-### 🛠 **Tech Stack**
-#### **Backend**
-- 🚀 Laravel | CodeIgniter | Node.js  
-- 🗄 MySQL | PostgreSQL | Redis  
-- 🔐 JWT | OAuth | API Development  
-- 🏗 RESTful & GraphQL APIs  
+## 💻 **Tech Stack & Tools**
+### **Backend Development**
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EE4623.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### **Frontend**
-- ⚡ React.js | Inertia.js | Livewire  
-- 🎨 Tailwind CSS | Alpine.js  
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-2E2E2E?style=for-the-badge&logo=inertia.js&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4F46E5?style=for-the-badge&logo=livewire&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC34A?style=for-the-badge&logo=alpine.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### **DevOps & Tools**
-- 📦 Docker | CI/CD | GitHub Actions  
-- ☁ AWS | DigitalOcean | Laravel Forge  
-- 🛠 Postman | Swagger | Pusher  
+### **Database & Caching**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Laravel Forge](https://img.shields.io/badge/Laravel_Forge-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### **APIs & Authentication**
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3E3E3E?style=for-the-badge&logo=oauth&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### **Real-Time & Messaging**
+![Pusher](https://img.shields.io/badge/Pusher-2400FF?style=for-the-badge&logo=pusher&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-0078D7?style=for-the-badge&logo=websockets&logoColor=white)
 
 ---
 
-### 📈 **GitHub Stats**
+## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🎯 **Let's Connect**
-🔗 [LinkedIn](https://www.linkedin.com/in/hafiz-mohammad-taimoor-hussain)  
-💬 Open to collaborations & discussions on **Laravel**, **React**, and **scalability**!  
+## 🎯 **Let’s Connect**
+💬 Always open for discussions on **Laravel, React, APIs, real-time systems, and cloud architecture**!  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/hafiz-mohammad-taimoor-hussain]  
+📧 **Email**: [taimoorhussain79@outlook.com]  
 
----
-
-🚀 **"Turning complex ideas into robust digital solutions."**  
+🚀 **"Transforming ideas into scalable, high-impact digital solutions!"**
