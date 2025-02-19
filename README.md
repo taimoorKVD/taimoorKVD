@@ -103,13 +103,6 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/taimoorKVD/taimoorKVD/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 ## 🎯 **Let’s Connect**
 💬 Always open for discussions on **Laravel, React, APIs, real-time systems, and cloud architecture**!  
 <p>📌 **Portfolio**: [http://taimoorhussain.com]</p>
