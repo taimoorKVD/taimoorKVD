@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Senior+Backend+Developer;Laravel+%7C+CodeIgniter+%7C+Livewire+%7C+React;Building+Scalable+Applications;Bringing+Ideas+to+Life+with+Code!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=taimoorKVD&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🚀 **About Me**
