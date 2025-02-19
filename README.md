@@ -64,9 +64,6 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taimoorKVD&theme=radical" alt="GitHub Streak"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taimoorKVD&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
@@ -74,17 +71,8 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 
 ## 🏆 **Top Repositories**
 <p align="center">
-  <a href="https://github.com/your-username/your-top-repo">
+  <a href="https://github.com/taimoorKVD/japanski_travel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=taimoorKVD&repo=japanski_travel&theme=radical" />
-  </a>
-  <a href="https://github.com/your-username/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taimoorKVD&repo=firefighter&theme=radical" />
-  </a>
-  <a href="https://github.com/your-username/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taimoorKVD&repo=firefighter&theme=radical" />
-  </a>
-  <a href="https://github.com/your-username/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taimoorKVD&repo=ott-web-app&theme=radical" />
   </a>
 </p>
 
