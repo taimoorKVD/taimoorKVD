@@ -10,7 +10,7 @@
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://i.imgur.com/7yyL0ek.png" width="400" alt="Cartoon Developer">
 </div>
 
 
