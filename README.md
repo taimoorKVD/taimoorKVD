@@ -70,11 +70,7 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 ---
 
 ## 🏆 **Top Repositories**
-<p align="center">
-  <a href="https://github.com/taimoorKVD/multi-vendor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taimoorKVD&repo=multi-vendor&theme=radical" />
-  </a>
-</p>
+[Multi-Vendor](https://github.com/taimoorKVD/multi-vendor) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 
 ---
 
