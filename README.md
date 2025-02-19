@@ -64,7 +64,7 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taimoorKVD&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taimoorKVD&theme=radical" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taimoorKVD&show_icons=true&theme=radical" alt="GitHub Stats" />
