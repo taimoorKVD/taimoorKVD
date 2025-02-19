@@ -74,13 +74,14 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 - **[Multi-Vendor](https://github.com/taimoorKVD/multi-vendor)**  
   A versatile multi-vendor platform built with Laravel.  
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-  
-  🚀 **Features**:
-  - Multi-vendor support
-  - Easy-to-use admin panel
-  - Product management
-  
-  🌟 [Explore the repository here](https://github.com/taimoorKVD/multi-vendor)
+
+- **[Multi-Vendor](https://github.com/taimoorKVD/multi-vendor)**  
+  A versatile multi-vendor platform built with Laravel.  
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+- **[Firefighter](https://github.com/kingdomvision/firefighter)**  
+  A responsive web application for firefighter management and operations.  
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 
 ---
 
