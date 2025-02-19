@@ -89,6 +89,7 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 💬 Always open for discussions on **Laravel, React, APIs, real-time systems, and cloud architecture**!  
 <p>📌 **Portfolio**: [http://taimoorhussain.com]</p>
 <p>🔗 **LinkedIn**: [https://www.linkedin.com/in/hafiz-mohammad-taimoor-hussain]</p>
-📧 **Email**: [taimoorhussain79@outlook.com]  
+<p>📧 **Email**: [taimoorhussain79@outlook.com]</p>
+
 
 🚀 **"Transforming ideas into scalable, high-impact digital solutions!"**
