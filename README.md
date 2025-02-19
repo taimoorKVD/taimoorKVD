@@ -69,10 +69,10 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 
 ---
 
-## 📊 **Top Languages**
-<p align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorKVD&layout=compact&theme=radical)
-</p>
+## 📊 **Top Languages**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorKVD&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
 ---
 
