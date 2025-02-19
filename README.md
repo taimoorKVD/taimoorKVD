@@ -71,8 +71,8 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 
 ## 🏆 **Top Repositories**
 <p align="center">
-  <a href="https://github.com/taimoorKVD/japanski_travel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taimoorKVD&repo=japanski_travel&theme=radical" />
+  <a href="https://github.com/taimoorKVD/multi-vendor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taimoorKVD&repo=multi-vendor&theme=radical" />
   </a>
 </p>
 
