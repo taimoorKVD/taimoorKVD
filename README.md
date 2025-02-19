@@ -9,10 +9,6 @@
 </p>
 
 ---
-<div align="center">
-  <img src="https://i.imgur.com/7yyL0ek.png" width="400" alt="Cartoon Developer">
-</div>
-
 
 ## 🚀 **About Me**
 Hey there! I'm a **Senior Backend Developer** passionate about crafting **scalable, high-performance applications**. With deep expertise in **Laravel, CodeIgniter, and modern web technologies**, I thrive on solving complex problems and building efficient, secure, and well-architected backend systems.
@@ -25,6 +21,10 @@ Beyond the backend, I bring interactive UIs to life using **React.js, Inertia.js
 ✔ Crafting **secure authentication & authorization systems**  
 ✔ Implementing **real-time experiences with WebSockets & Pusher**  
 ✔ Deploying & optimizing apps on **AWS, DigitalOcean, and Docker**
+
+---
+
+<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"> </div>
 
 ---
 
